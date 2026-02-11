@@ -128,5 +128,4 @@ To work as a SOC Analyst / DFIR professional contributing to threat detection, i
 
 ---
 
-⭐ *If you like my work, consider following or starring my repositories.*
 
