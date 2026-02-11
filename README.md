@@ -1,162 +1,132 @@
-👋 Hi, I'm Navin Suresh
+<!-- ========================= -->
+<!--      NAVIN SURESH         -->
+<!-- ========================= -->
 
-Cybersecurity | SOC Analyst | DFIR | Linux Security
+<h1 align="center">👋 Hi, I'm Navin Suresh</h1>
+<h3 align="center">Cybersecurity | SOC Analyst | DFIR | Linux Security</h3>
 
-🔐 Cybersecurity & Digital Forensics graduate passionate about threat detection, incident response, and security research.
+<p align="center">
+🔐 Cybersecurity & Digital Forensics graduate passionate about threat detection, incident response, and building secure systems.<br>
 🎯 Actively building hands-on labs in SOC operations, SIEM, Linux server security, and automation.
+</p>
 
-🛡️ Professional Summary
+<p align="center">
+<a href="https://www.linkedin.com/in/navinsuresh2003">LinkedIn</a> • 
+<a href="https://github.com/Navin-2003">GitHub</a> • 
+<a href="mailto:navinsuresh2003@gmail.com">Email</a>
+</p>
 
-🎓 M.Sc Cyber Security (Pursuing)
+---
 
-🎓 B.Sc Cyber Forensics
+## 🛡️ About Me
 
-🛰️ Experience in digital evidence handling & forensic investigations
+- 🎓 M.Sc Cyber Security (Pursuing)  
+- 🎓 B.Sc Cyber Forensics  
+- 🛰️ Experience in digital evidence handling & forensic investigations  
+- 🔎 Strong interest in SOC Monitoring, Detection Engineering & DFIR  
+- 🖥️ Comfortable with Linux administration & security hardening  
 
-🔎 Strong interest in SOC monitoring, detection engineering & DFIR
+---
 
-🧠 Comfortable with Linux administration and security hardening
+## 🔧 Technical Skills
 
-🔧 Technical Skills
-💻 Programming & Scripting
+**Programming & Scripting**  
+Python • JavaScript • C# • C++ • Java • Bash  
 
-Python
+**Cybersecurity**  
+Log Analysis • SIEM (Wazuh / ELK) • Incident Response • Malware Analysis • Disk & Memory Forensics • Network Security • Vulnerability Assessment  
 
-JavaScript
+**Tools & Platforms**  
+Wazuh • Wireshark • Nmap • Autopsy • FTK Imager • Burp Suite • Kali Linux • Linux Server  
 
-C#
+---
 
-C++
+## 🚀 Featured Projects
 
-Java
+### 🛡️ SOC Wazuh AWS Lab – Detection & Monitoring  
+🔗 https://github.com/Navin-2003/soc-wazuh-aws-lab  
 
-Bash
+Hands-on SOC lab using Wazuh SIEM to simulate enterprise monitoring and incident response.
 
-🛡️ Cybersecurity
+- Centralized log collection  
+- SSH brute-force & Windows failed login detection  
+- Port scan detection  
+- Custom alerts & dashboards  
+- Incident triage workflow  
 
-Log Analysis
+**Skills:** SIEM, Log Analysis, Detection Engineering, Incident Response  
 
-SIEM (Wazuh / ELK – Basics)
+---
 
-Incident Response
-
-Malware Analysis
-
-Disk & Memory Forensics
-
-Network Security
-
-Vulnerability Assessment
-
-🧰 Tools & Platforms
-
-Wazuh SIEM
-
-Wireshark
-
-Nmap
-
-Autopsy
-
-FTK Imager
-
-Burp Suite (Basics)
-
-Kali Linux
-
-Linux Server Administration
-
-🚀 Featured Projects
-🛡️ SOC Wazuh AWS Lab – Detection & Monitoring Environment
-
-Hands-on SOC lab using Wazuh SIEM to simulate real-world log collection, detection, and incident response.
-
-Key Features
-
-Centralized log collection
-
-SSH brute-force detection
-
-Windows failed login monitoring
-
-Port scan detection
-
-Custom alerts & dashboards
-
-Incident triage workflow
-
-Skills: SIEM, Log Analysis, Detection Engineering, Incident Response
-
-🖥️ Linux Server Administration & Hardening Lab
+### 🖥️ Linux Server Administration & Hardening Lab  
+🔗 https://github.com/Navin-2003/SERVER_ADMIN  
 
 Linux server deployment and security hardening using AlmaLinux with LEMP stack.
 
-Key Features
+- LEMP stack installation  
+- SSH hardening & key-based authentication  
+- Firewall configuration  
+- User & permission management  
+- Server security best practices  
 
-LEMP stack installation
+**Skills:** Linux Administration, Server Security, Bash, Networking  
 
-SSH hardening & key authentication
+---
 
-Firewall configuration
-
-User & permission management
-
-Server security best practices
-
-Skills: Linux Administration, Server Security, Bash, Networking
-
-🔐 Encrypted Online Drive – Noushare
+### 🔐 Encrypted Online Drive – Noushare  
+🔗 https://github.com/Navin-2003/Noushare  
 
 Secure file sharing and storage system with encryption.
 
-Key Features
+- Encrypted file upload & download  
+- Access control mechanisms  
+- Secure storage architecture  
 
-Encrypted upload & download
+**Skills:** Python, Cryptography Basics, Secure Storage  
 
-Access control mechanisms
+---
 
-Secure storage architecture
+### 🔍 Password Analyzer  
+🔗 https://github.com/Navin-2003/password-analyzer  
 
-Skills: Python, Cryptography Basics, Secure Storage
+Password strength analysis tool with scoring and recommendations.
 
-🔍 Password Analyzer
+- Strength scoring  
+- Weak password detection  
+- Security suggestions  
 
-Password strength analysis tool that evaluates security level and suggests improvements.
+**Skills:** JavaScript, Security Awareness, Input Validation  
 
-Key Features
+---
 
-Strength scoring
+### 🕹️ HID Attack using Pi Pico  
+Educational project demonstrating USB HID keystroke injection in controlled lab environments.
 
-Weak password detection
+**Skills:** USB HID, Attack Simulation, Security Testing  
 
-Recommendations
+---
 
-Skills: JavaScript, Security Awareness, Input Validation
+## 📚 Currently Learning
 
-🕹️ HID Attack using Pi Pico
+- Detection Engineering  
+- Threat Intelligence Integration  
+- Malware Behavior Analysis  
+- Python Security Automation  
 
-Educational project demonstrating USB HID-based keystroke injection in controlled lab environments.
+---
 
-Skills: USB HID, Attack Simulation, Security Testing
-
-📚 Current Learning
-
-Detection engineering
-
-Threat intelligence integration
-
-Malware behavior analysis
-
-Python security automation
-
-🎯 Career Goal
+## 🎯 Career Objective
 
 To work as a SOC Analyst / DFIR professional contributing to threat detection, incident response, and security operations.
 
-📬 Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/navinsuresh2003
+## 📊 GitHub Stats
 
-GitHub: https://github.com/Navin-2003
+![GitHub followers](https://img.shields.io/github/followers/Navin-2003?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Navin-2003)
 
-Email: navinsuresh2003@gmail.com
+---
+
+⭐ *If you like my work, consider following or starring my repositories.*
+
