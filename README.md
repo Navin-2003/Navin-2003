@@ -87,7 +87,7 @@ Secure file sharing and storage system with encryption.
 ---
 
 ### 🔍 Password Analyzer  
-🔗 https://github.com/Navin-2003/password-analyzer  
+🔗 https://github.com/Navin-2003/cyber-security/tree/main/password-analyzer
 
 Password strength analysis tool with scoring and recommendations.
 
