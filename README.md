@@ -20,7 +20,7 @@
 
 ## 🛡️ About Me
 
-- 🎓 M.Sc Cyber Security (Pursuing)  
+- 🎓 M.Sc Cyber Security
 - 🎓 B.Sc Cyber Forensics  
 - 🛰️ Experience in digital evidence handling & forensic investigations  
 - 🔎 Strong interest in SOC Monitoring, Detection Engineering & DFIR  
